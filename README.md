@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ximenes-lucas&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ximenes-lucas&layout=compact_icons=true&theme=tokyonight)](https://github.com/ximenes-lucas/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ximenes-lucas&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
