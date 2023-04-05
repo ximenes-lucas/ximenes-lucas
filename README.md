@@ -1,4 +1,4 @@
-## &nbsp; &nbsp; &nbsp; &nbsp; Hi there! Welcome to my Github profile.👋
+## Hi there! Welcome to my Github profile.👋
 
 <!--
 
