@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br><div style="flex" align="center">
+<br><div style="flex" flex-direction="row" align="center">
       <div>
          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ximenes-lucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximenes-lucas&includeForks=true&layout=compact&langs_count=8&theme=tokyonight"/>
